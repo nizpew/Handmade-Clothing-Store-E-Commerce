@@ -10,6 +10,18 @@ We are seeking an experienced e-commerce developer to create a comprehensive onl
 
 This project delivers a comprehensive e-commerce platform built with WordPress and WooCommerce for a handmade clothing brand targeting customers in the United States and the United Kingdom. It emphasizes a seamless user experience with full shopping functionality, secure payment gateways, and fast international shipping options.
 
+## Prints
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63cac156-5768-444e-bb6d-aa4b9aee65e4" />
+
+
+<img width="1910" height="1049" alt="image" src="https://github.com/user-attachments/assets/78276aec-2d9e-4052-8247-1ef564c90f15" />
+
+<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/bf096c25-e86a-4b10-bb57-1ce8dc80a5b1" />
+
+<img width="422" height="852" alt="image" src="https://github.com/user-attachments/assets/0da4f74f-faa2-4096-803d-c76625def216" />
+
+
 ## Key Features
 
 - Responsive design ensuring optimal experience across desktop, tablet, and mobile devices  
