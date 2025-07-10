@@ -72,7 +72,7 @@ This project delivers a comprehensive e-commerce platform built with WordPress a
 
 ## Contact & Support
 
-For further assistance or inquiries, please contact the development team at [email@example.com].
+For further assistance or inquiries, please contact the development team 
 
 ---
 
