@@ -1,19 +1,16 @@
-# Handmade Clothing Store E-Commerce
+# Loja de Roupas Artesanais E-Commerce
 
+## Solicitação do Cliente
 
-## Client request
-    
-We are seeking an experienced e-commerce developer to create a comprehensive online store for our handmade clothing brand. The primary goal is to establish a robust and user-friendly platform capable of serving customers in both the United States and the United Kingdom. The project requires full e-commerce functionality, including product listings, a secure shopping cart, and a streamlined checkout process. Integration with reliable payment gateways is essential. The store must feature a responsive design to ensure optimal viewing and functionality across all devices (desktop, tablet, mobile). We aim for a launch within three months, so efficiency and timely delivery are crucial. While the core focus is on development, the platform should be built with future Instagram marketing integration in mind. Additionally, the solution must support fast and reliable shipping options for international delivery to our target markets
+Estamos buscando um desenvolvedor de e-commerce experiente para criar uma loja online abrangente para nossa marca de roupas artesanais. O objetivo principal é estabelecer uma plataforma robusta e amigável ao usuário capaz de atender clientes tanto nos Estados Unidos quanto no Reino Unido. O projeto requer funcionalidade completa de e-commerce, incluindo listagem de produtos, carrinho de compras seguro e processo de checkout simplificado. A integração com gateways de pagamento confiáveis é essencial. A loja deve apresentar um design responsivo para garantir visualização e funcionalidade ótimas em todos os dispositivos (desktop, tablet, mobile). Visamos um lançamento em três meses, portanto eficiência e entrega no prazo são cruciais. Embora o foco principal seja no desenvolvimento, a plataforma deve ser construída considerando futura integração de marketing no Instagram. Além disso, a solução deve suportar opções de envio rápidas e confiáveis para entrega internacional aos nossos mercados-alvo.
 
-
-## Overview
-
-This project delivers a comprehensive e-commerce platform built with WordPress and WooCommerce for a handmade clothing brand targeting customers in the United States and the United Kingdom. It emphasizes a seamless user experience with full shopping functionality, secure payment gateways, and fast international shipping options.
+## Visão Geral
+Fiz esse projeto para um teste de Freelance.
+Este projeto entrega uma plataforma de e-commerce abrangente construída com WordPress e WooCommerce para uma marca de roupas artesanais voltada para clientes nos Estados Unidos e Reino Unido. Ele enfatiza uma experiência de usuário perfeita com funcionalidade completa de compras, gateways de pagamento seguros e opções de envio internacional rápidas.
 
 ## Prints
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63cac156-5768-444e-bb6d-aa4b9aee65e4" />
-
 
 <img width="1910" height="1049" alt="image" src="https://github.com/user-attachments/assets/78276aec-2d9e-4052-8247-1ef564c90f15" />
 
@@ -21,72 +18,62 @@ This project delivers a comprehensive e-commerce platform built with WordPress a
 
 <img width="422" height="852" alt="image" src="https://github.com/user-attachments/assets/0da4f74f-faa2-4096-803d-c76625def216" />
 
+## Principais Funcionalidades
 
-## Key Features
+- Design responsivo garantindo experiência ótima em desktop, tablet e dispositivos móveis  
+- Gerenciamento de catálogo de produtos com listagens detalhadas e controle de estoque  
+- Integração com gateway de pagamento Stripe para transações seguras e confiáveis  
+- Integração do Feed do Instagram para marketing e engajamento social  
+- Suporte a envio internacional adaptado aos mercados dos EUA e Reino Unido  
+- SEO otimizado usando plugin Yoast SEO  
+- Arquitetura escalável permitindo expansões futuras de funcionalidades
 
-- Responsive design ensuring optimal experience across desktop, tablet, and mobile devices  
-- Product catalog management with detailed listings and inventory control  
-- Integration with Stripe payment gateway for secure and reliable transactions  
-- Instagram Feed integration for marketing and social engagement  
-- International shipping support tailored to the US and UK markets  
-- SEO optimized using Yoast SEO plugin  
-- Scalable architecture allowing future feature expansions
-
-## Technologies Used
+## Tecnologias Utilizadas
 
 - WordPress (CMS)  
-- WooCommerce (E-commerce platform)  
-- PHP (Backend scripting)  
-- MySQL (Database management)  
-- WP-CLI (WordPress command line interface for automation)  
-- Astra Theme (Lightweight and customizable theme)  
-- Stripe (Payment gateway integration)  
-- Instagram Feed plugin (Social media marketing)  
-- Yoast SEO (Search engine optimization)
+- WooCommerce (Plataforma de e-commerce)  
+- PHP (Scripting backend)  
+- MySQL (Gerenciamento de banco de dados)  
+- WP-CLI (Interface de linha de comando WordPress para automação)  
+- Tema Astra (Tema leve e personalizável)  
+- Stripe (Integração de gateway de pagamento)  
+- Plugin Instagram Feed (Marketing em redes sociais)  
+- Yoast SEO (Otimização para motores de busca)
 
-## Project Scope
+## Escopo do Projeto
 
-- Complete setup and configuration of WordPress and WooCommerce environment  
-- Creation and import of product catalog with pricing, stock status, and images  
-- Integration of payment gateway with Stripe for seamless checkout  
-- Implementation of Instagram feed for social marketing  
-- Responsive design customization using Astra theme  
-- Support for international shipping options and tax calculations  
-- Basic SEO configuration for better search engine visibility  
-- Automated scripts to handle product imports and image management
+- Configuração completa e instalação do ambiente WordPress e WooCommerce  
+- Criação e importação de catálogo de produtos com preços, status de estoque e imagens  
+- Integração de gateway de pagamento com Stripe para checkout simplificado  
+- Implementação do feed do Instagram para marketing social  
+- Personalização de design responsivo usando tema Astra  
+- Suporte a opções de envio internacional e cálculos de impostos  
+- Configuração básica de SEO para melhor visibilidade nos motores de busca  
+- Scripts automatizados para importação de produtos e gerenciamento de imagens
 
-## Installation & Setup
+## Instalação & Configuração
 
-1. Install PHP (>=7.4), MySQL, and Apache/Nginx server.  
-2. Setup WordPress using WP-CLI for automated installation.  
-3. Import product catalog via provided scripts or WP Admin.  
-4. Configure WooCommerce payment gateways, especially Stripe.  
-5. Install and activate necessary plugins: WooCommerce, Yoast SEO, Instagram Feed, Astra theme.  
-6. Adjust shipping zones for US and UK markets.  
-7. Test user registration, product browsing, cart, checkout, and payment flows.  
-8. Deploy to a live server with HTTPS enabled.
+1. Instale PHP (>=7.4), MySQL e servidor Apache/Nginx.  
+2. Configure WordPress usando WP-CLI para instalação automatizada.  
+3. Importe catálogo de produtos via scripts fornecidos ou WP Admin.  
+4. Configure gateways de pagamento do WooCommerce, especialmente Stripe.  
+5. Instale e ative plugins necessários: WooCommerce, Yoast SEO, Instagram Feed, tema Astra.  
+6. Ajuste zonas de envio para mercados EUA e Reino Unido.  
+7. Teste registro de usuário, navegação de produtos, carrinho, checkout e fluxos de pagamento.  
+8. Faça deploy em servidor live com HTTPS habilitado.
 
-## Usage
+## Uso
 
-- Admins can manage products, orders, and customers via the WordPress dashboard.  
-- Customers can browse products, add to cart, checkout with Stripe, and track orders.  
-- Marketing team can leverage Instagram feed to promote products on the site.  
-- SEO settings help maintain search visibility and ranking.
+- Administradores podem gerenciar produtos, pedidos e clientes via dashboard do WordPress.  
+- Clientes podem navegar produtos, adicionar ao carrinho, finalizar compra com Stripe e rastrear pedidos.  
+- Equipe de marketing pode aproveitar feed do Instagram para promover produtos no site.  
+- Configurações de SEO ajudam a manter visibilidade e ranqueamento nos motores de busca.
 
-## Future Improvements
+## Melhorias Futuras
 
-- Multi-language support for a broader international audience.  
-- Enhanced reporting dashboard for sales and inventory analytics.  
-- Loyalty and discount systems for customer retention.  
-- Integration with additional payment gateways and shipping providers.  
-- Performance optimizations and caching strategies.  
-- Accessibility improvements to comply with web standards.
-
-## Contact & Support
-
-For further assistance or inquiries, please contact the development team 
-
----
-
-*This project was delivered with a focus on timely execution, robust architecture, and scalability, ensuring alignment with business goals and customer satisfaction.*
-
+- Suporte multi-idioma para público internacional mais amplo.  
+- Dashboard de relatórios aprimorado para análises de vendas e estoque.  
+- Sistemas de fidelidade e descontos para retenção de clientes.  
+- Integração com gateways de pagamento e provedores de envio adicionais.  
+- Otimizações de performance e estratégias de cache.  
+- Melhorias de acessibilidade para cumprir padrões web.
